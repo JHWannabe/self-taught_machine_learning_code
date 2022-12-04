@@ -1,1 +1,1 @@
-# self-taught_machine_learning_code
+# 혼자 공부하는 머신러닝 딥러닝 파이썬 코드
